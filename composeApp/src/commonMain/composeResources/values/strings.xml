@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<resources>
+    <string name="home_title_weather">天气</string>">
+    <string name="home_title_discovery">发现</string>
+    <string name="home_title_more">更多</string>
+    <string name="home_open_net_settings">打开网络设置</string>
+
+    <string name="error_network_fail">获取天气失败，下拉刷新</string>
+    <string name="error_refresh_tooffast">刷新太快受不了了</string>
+
+    <string name="nav_main">主页</string>
+    <string name="nav_author">作者</string>
+    <string name="nav_about">关于</string>
+    <string name="nav_about_content">本跨平台DEMO应用的一些信息，以及所使用的技术栈</string>
+
+    <string name="back_button">返回按钮</string>
+
+    <string name="more_version">版本号</string>
+    <string name="more_versioncode">v1.0.6</string>
+
+
+</resources>
