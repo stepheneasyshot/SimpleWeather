@@ -22,11 +22,11 @@ This is a Compose Multiplatform project targeting Android, iOS, Desktop.
 ## 软件截图
 Android首页：
 
-![](./screenshots/android_page_1.png){:width="200" height="600"}
+![](./screenshots/android_page_1.png){:width="200" height="400"}
 
 Android关于页：
 
-![](./screenshots/android_page_3.png){:width="200" height="600"}
+![](./screenshots/android_page_3.png){:width="200" height="400"}
 
 IOS首页：
 
