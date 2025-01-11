@@ -22,16 +22,16 @@ This is a Compose Multiplatform project targeting Android, iOS, Desktop.
 ## 软件截图
 Android首页：
 
-![](./screenshots/android_page_1.png)
+![](./screenshots/android_page_1.png){:witdh="200" height="600"}
 
 Android关于页：
 
-![](./screenshots/android_page_3.png)
+![](./screenshots/android_page_3.png){:witdh="200" height="600"}
 
 IOS首页：
 
-![](./screenshots/ios_page_1.png)
+![](./screenshots/ios_page_1.png){:witdh="200" height="600"}
 
 IOS关于页：
 
-![](./screenshots/ios_page_3.png)
+![](./screenshots/ios_page_3.png){:witdh="200" height="600"}
