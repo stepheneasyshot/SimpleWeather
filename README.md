@@ -22,7 +22,7 @@ This is a Compose Multiplatform project targeting Android, iOS, Desktop.
 ## 软件截图
 Android首页：
 
-![](./screenshots/android_page_1.png){:width="200" height="400"}
+![](./screenshots/android_page_1.png){:width="40%" height="40%"}
 
 Android关于页：
 
