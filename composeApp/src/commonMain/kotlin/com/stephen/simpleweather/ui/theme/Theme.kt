@@ -55,7 +55,6 @@ fun WeUITheme(
             color = MaterialTheme.colorScheme.background
         ) {
             content()
-
         }
     }
 }
