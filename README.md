@@ -21,6 +21,6 @@ This is a Compose Multiplatform project targeting Android, iOS, Desktop.
  
 ## 软件截图
 
-![](./screenshots/screenshots.png)
+![](./screenshots/screenshots.jpg)
 
 
