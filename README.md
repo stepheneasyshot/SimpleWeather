@@ -20,18 +20,7 @@ This is a Compose Multiplatform project targeting Android, iOS, Desktop.
       * 。。。
  
 ## 软件截图
-Android首页：
 
-![](./screenshots/android_page_1.png){:width="40%" height="40%"}
+![](./screenshots/screenshots.png)
 
-Android关于页：
 
-![](./screenshots/android_page_3.png){:width="200" height="400"}
-
-IOS首页：
-
-![](./screenshots/ios_page_1.png){:width="200" height="600"}
-
-IOS关于页：
-
-![](./screenshots/ios_page_3.png){:width="200" height="600"}
