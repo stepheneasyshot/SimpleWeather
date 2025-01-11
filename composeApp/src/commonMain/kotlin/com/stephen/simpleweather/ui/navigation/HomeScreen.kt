@@ -109,7 +109,6 @@ private fun BottomNav(
                         modifier = Modifier.height(32.dp).width(32.dp),
                         painter = painterResource(
                             if (selected) section.selectedIcon
-                            else if (isSystemInDarkTheme()) section.nightIcon
                             else section.icon
                         ),
                         contentDescription = stringResource(title),
