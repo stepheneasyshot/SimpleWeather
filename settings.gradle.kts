@@ -18,7 +18,7 @@ pluginManagement {
 
 dependencyResolutionManagement {
     repositories {
-        maven("https://maven.aliyun.com/repository/gradle-plugin")
+        maven("https://mirrors.tencent.com/nexus/repository/maven-public/")
         google {
             mavenContent {
                 includeGroupAndSubgroups("androidx")

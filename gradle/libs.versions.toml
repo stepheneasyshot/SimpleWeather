@@ -21,7 +21,7 @@ koin_compose_jb = "1.1.0"
 # ktor
 ktor = "2.3.7"
 # pullrefresh
-navigationCompose = "2.7.0-alpha07"
+navigationCompose = "2.8.0-alpha10"
 pullrefresh = "1.4.0-beta03"
 # log
 napier = "2.7.1"
